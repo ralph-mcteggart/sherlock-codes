@@ -19,6 +19,6 @@ However, this time round I'm using [Stackbit](https://www.stackbit.com/) and at 
 
 I want _most_ posts to be short so I'll start on the right foot:
 
-I'm an Irish software engineer. I have an awesome family and a great job. I'm also deaf, so that will come up from time to time. Tech-wise, I love Vim, Rust and problems at scale. The first two are interests but the latter is the day job. I work in cybersecurity though I'm usually dealing with engineering some part of a distributed system than anything deeply security related.
+I'm an Irish software engineer. I have an awesome family and a great job. I'm also deaf, so that will come up from time to time. Tech-wise, I love Vim, Rust and problems at scale. The first two are interests but the latter is the day job. I work in cybersecurity though I'm usually dealing with engineering some part of a distributed system rather than anything deeply security related.
 
 That's as succinct as I can get it. I'm leaving a lot out so hopefully I can dive into way more as I get time to write. 

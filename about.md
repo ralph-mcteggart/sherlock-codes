@@ -1,7 +1,7 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+subtitle: Who I am and what I do
+img_path: images/ralphmct.jpg
 menus:
   main:
     title: About
@@ -9,12 +9,23 @@ menus:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+My name is **Ralph McTeggart** and I'm a software engineer from [Belfast](https://en.wikipedia.org/wiki/Belfast), Ireland. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I consider myself a full stack dev, though my professional background is mostly back-end distributed systems. I will develop in whatever solves the problem. Actually, sometimes the problem is the most interesting bit. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+The blog will probably contain various musings around:
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
++ Rust
++ Linux
++ Vim
++ GraphQL
++ Distributed systems
++ People problems in software
++ Security
++ Open source
++ Java / Kotlin
++ Various other languages
++ AWS
++ whatever else I'm working on...
 
 *Thank You for reading!*

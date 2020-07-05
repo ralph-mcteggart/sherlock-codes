@@ -4,7 +4,7 @@ permalink: '/:title/'
 layout_style: grid
 palette: green
 header:
-  title: Ampersand
+  title: Sherlock Codes
   logo_img: images/logo.png
   has_nav: true
 footer:

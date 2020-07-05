@@ -11,7 +11,7 @@ layout: page
 
 My name is **Ralph McTeggart** and I'm a software engineer from [Belfast](https://en.wikipedia.org/wiki/Belfast), Ireland. 
 
-I consider myself a full stack dev, though my professional background is mostly back-end distributed systems. I will develop in whatever solves the problem. Actually, sometimes the problem is the most interesting bit. 
+I consider myself a full stack dev, although my professional background is mostly in back-end distributed systems. I will develop in whatever solves the problem. Actually, sometimes the problem is the most interesting bit. 
 
 The blog will probably contain various musings around:
 
@@ -28,4 +28,4 @@ The blog will probably contain various musings around:
 + AWS
 + whatever else I'm working on...
 
-*Thank You for reading!*
+*Thank you for reading!*
